@@ -1,0 +1,18 @@
+{
+  "name": "productalerter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SindreMA",
+  "license": "ISC",
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "lodash": "^4.17.21",
+    "nodemailer": "^6.9.0",
+    "puppeteer": "^19.5.2",
+    "twilio": "^3.84.1"
+  }
+}

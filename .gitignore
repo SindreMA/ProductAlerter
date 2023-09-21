@@ -1,0 +1,7 @@
+/bin
+/obj
+/Properties
+/.vscode
+/.vs
+*-lock.json
+/node_modules
